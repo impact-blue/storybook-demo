@@ -1,0 +1,4 @@
+storybook-static/
+
+*.log
+tsconfig.tsbuildinfo
