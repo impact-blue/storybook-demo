@@ -41,7 +41,11 @@
     "prettier": "^2.6.1",
     "webpack": "^5.72.0"
   },
-  "private": true,
+  "license": "MIT",
+  "overrides": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
   "scripts": {
     "build": "next build",
     "build-storybook": "build-storybook",
